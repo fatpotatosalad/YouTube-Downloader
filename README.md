@@ -1,6 +1,7 @@
 # YouTube Downloader
 A jerry-rigged python script based on pytube that downloads youtube videos.
-Includes command line UI.
+
+Includes command line UI and a PROGRESS BAR!
 
 ## Requirements
 Python libraries: 
